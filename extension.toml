@@ -1,0 +1,7 @@
+id = "charred-theme"
+name = "Charred Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["chirag <arorachirag12005@gmail.com>"]
+description = "A dark theme for Zed editor"
+repository = "https://github.com/TheChirag356/charred-theme"
